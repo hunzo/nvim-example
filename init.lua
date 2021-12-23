@@ -1,0 +1,8 @@
+require('settings')
+require('packer-config')
+require('colorscheme.nightfox')
+require('nvim-tree-config')
+require('keymapping')
+require('lsp-config.language-servers')
+require('lsp-config.nvim-cmp')
+require('autopaires-config')
